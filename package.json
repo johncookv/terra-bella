@@ -10,6 +10,7 @@
   "dependencies": {
     "gatsby": "next",
     "gatsby-plugin-typography": "^1.7.19",
+    "gatsby-remark-responsive-iframe": "^1.4.20",
     "gatsby-transformer-remark": "^1.7.44",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
